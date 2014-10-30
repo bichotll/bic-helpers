@@ -1,0 +1,20 @@
+{
+    "name": "bic/helpers",
+    "description": "Some helpers for my code n projects. Yeah, PHP is a bit far away to be perfect in some aspects...",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bichotll",
+            "email": "jaume@bic.cat"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Bic\\Helpers": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
